@@ -1,0 +1,12 @@
+.jumbotron {
+  background-color: #90ceff;
+  text-align: center;
+  color: red;
+
+}
+.Questions {
+  display: none;
+}
+.celebrities {
+  display: none;
+}
