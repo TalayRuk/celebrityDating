@@ -1,12 +1,36 @@
+.celebrities img{
+  width: 20%;
+  height: 20%;
+}
 .jumbotron {
   background-color: #90ceff;
   text-align: center;
   color: red;
-
 }
 .Questions {
   display: none;
 }
-.celebrities {
+#MAD {
+  display: none;
+}
+#MAE{
+  display: none;
+}
+#MBD{
+  display: none;
+}
+#MBE{
+  display: none;
+}
+#FAD{
+  display: none;
+}
+#FAE{
+  display: none;
+}
+#FBD{
+  display: none;
+}
+#FBE{
   display: none;
 }
